@@ -320,11 +320,3 @@ No ML retraining knowledge is required to deploy or use the API.
 
 ---
 
-If you want, next I can:
-
-* Create a **Dockerfile**
-* Add **CI/CD notes**
-* Write **API contract for frontend**
-* Help you prepare **project documentation / pitch**
-
-Just tell me.
